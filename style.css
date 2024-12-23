@@ -3,3 +3,18 @@
     font-weight: 800;
 }
 
+ul {
+    color: rgb(0,100,100);
+}
+
+ol {
+    color: rgb(100,200,0);
+    background-color: maroon;
+    font-size: 20px;
+}
+
+#Ingredients {
+    background-color: aliceblue;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
